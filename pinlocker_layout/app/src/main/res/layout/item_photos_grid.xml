@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--選擇器中每個項目的layout-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:padding="5dp"
+    android:background="#11ffffff">
+    <!--預設圖片-->
+    <ImageView
+        android:id="@+id/photos_grid_photo"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/icon_picture" />
+
+    <CheckBox
+        android:id="@+id/main_selector"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:button="@null"
+        android:checked="false"
+        android:focusable="false"
+        android:clickable="false"
+
+
+        android:focusableInTouchMode="false"
+        android:drawableRight="@drawable/item_multi_photo_picker_checkbox_selector"
+        android:padding="10dp" />
+</RelativeLayout>

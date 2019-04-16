@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="net.funol.photolocker" >
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        >
+        <activity
+            android:name="net.funol.photolocker.activity.Check_passwordActivity"
+            android:theme="@android:style/Theme.Light.NoTitleBar"
+            >
+        </activity>
+        <activity
+            android:name="net.funol.photolocker.activity.CustomTitleBarActivity"
+            android:label="@string/title_activity_custom_title_bar" >
+        </activity>
+        <activity
+            android:name="net.funol.photolocker.activity.MainActivity"
+            android:label="@string/app_name" >
+            <!--><intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter><!-->
+        </activity>
+
+
+        <activity
+            android:name="net.funol.photolocker.activity.MainPasswordActivity"
+            android:theme="@android:style/Theme.Light.NoTitleBar"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="net.funol.photolocker.activity.MultiPhotoPickerActivity"
+            android:label="@string/title_activity_multi_photo_picker" >
+            <intent-filter>
+                <action android:name="funol.intent.action.PICK_MULTI_PHOTO" />
+                <action android:name="funol.intent.action.PICK_PHOTO" />
+
+                <data
+                    android:host="images.funol.net"
+                    android:pathPrefix="/number/"
+                    android:scheme="pick" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="net.funol.photolocker.activity.PasswordActivity"
+            android:theme="@android:style/Theme.Light.NoTitleBar"
+            >
+        </activity>
+        <activity
+            android:name="net.funol.photolocker.activity.PreviewImagesActivity"
+            android:label="@string/title_activity_preview_images" >
+        </activity>
+        <activity
+            android:name="net.funol.photolocker.activity.Set_passwordActivity"
+            android:theme="@android:style/Theme.Light.NoTitleBar" >
+        </activity>
+
+    </application>
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+</manifest>

@@ -1,0 +1,96 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <!--原來選擇圖片按鈕
+    <Button
+        android:id="@+id/main_pick_photo_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/title_bar_function_background_disabled"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="選擇圖片"
+        android:textColor="#ffffff"
+        android:textSize="18sp" />
+        -->
+
+    <GridView
+        android:id="@+id/main_photos"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:numColumns="3"
+        android:padding="0dp"
+        android:listSelector="@null"
+        android:verticalSpacing="0dp"
+        android:horizontalSpacing="0dp">
+    </GridView>
+
+    <!--右下角的+號功能紐-->
+    <LinearLayout
+        android:id="@+id/main_add_photo_bottom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:orientation="vertical">
+    <!-- 子項目在library下的layout ~ arc_menu改-->
+        <com.capricorn.ArcMenu
+            android:id="@+id/arc_menu"
+            android:layout_width="300px"
+            android:layout_height="300px"
+            />
+
+    </LinearLayout>
+
+    <!--長按功能Bar-->
+    <RelativeLayout
+        android:id="@+id/main_function_bar_bottom"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/title_bar_height"
+        android:layout_alignParentBottom="true"
+        android:visibility="gone"
+        android:background="#cc22292c">
+
+        <RelativeLayout
+            android:id="@+id/main_function_bar_bottom2"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_centerHorizontal="true"
+            android:background="#00000000">
+
+            <ImageButton android:id="@+id/all_select"
+                android:background="#00000000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:src="@mipmap/all_select" />
+            <ImageButton android:id="@+id/delete"
+                android:background="#00000000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/all_select"
+                android:padding="10dp"
+                android:src="@mipmap/delete" />
+            <ImageButton android:id="@+id/unlock"
+                android:background="#00000000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/delete"
+                android:padding="10dp"
+                android:src="@mipmap/unlock" />
+            <ImageButton android:id="@+id/info"
+                android:background="#00000000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/unlock"
+                android:padding="10dp"
+                android:src="@mipmap/info" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>

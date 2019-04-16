@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/fan/Documents/AndroidSample/bitbucket/pinlocker_layout/app/build/intermediates/exploded-aar/pinlocker_layout/subsamplingscaleimageview/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59dc3699710524f220502e0640da660747e70c1b">
+        <dex dex="/Users/fan/Documents/AndroidSample/bitbucket/pinlocker_layout/app/build/intermediates/pre-dexed/debug/classes-7a3bce1955ebf98815fa2724c8faa2effef62f91.jar" />
+    </item>
+    <item
+        jar="/Users/fan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/fan/Documents/AndroidSample/bitbucket/pinlocker_layout/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-cd80318a0a87218630fda6a4e77f0ce249491a55.jar" />
+    </item>
+    <item
+        jar="/Users/fan/Documents/AndroidSample/bitbucket/pinlocker_layout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/fan/Documents/AndroidSample/bitbucket/pinlocker_layout/app/build/intermediates/pre-dexed/debug/classes-a83412332b5673d71da38b6f559950989ccb47f7.jar" />
+    </item>
+    <item
+        jar="/Users/fan/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.0/f1e24ac977505d1fdcabadaa5be1f41dc11c4286/butterknife-7.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f1e24ac977505d1fdcabadaa5be1f41dc11c4286">
+        <dex dex="/Users/fan/Documents/AndroidSample/bitbucket/pinlocker_layout/app/build/intermediates/pre-dexed/debug/butterknife-7.0.0-38b00cade692dc831288a11b940acd2f0bd8228d.jar" />
+    </item>
+    <item
+        jar="/Users/fan/Documents/AndroidSample/bitbucket/pinlocker_layout/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/fan/Documents/AndroidSample/bitbucket/pinlocker_layout/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-44667fddcd3de0b1938982e429f6ece4c90904ad.jar" />
+    </item>
+    <item
+        jar="/Users/fan/Downloads/MultiPhotoPicker-master/app/build/intermediates/exploded-aar/MultiPhotoPicker-master/gestureimageview/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="184e7131d9839495030fd184c57f684e7337a5cc">
+        <dex dex="/Users/fan/Downloads/MultiPhotoPicker-master/app/build/intermediates/pre-dexed/debug/classes-cbe9a6be0bacc14667c46e730bde5d3030ff393f.jar" />
+    </item>
+    <item
+        jar="/Users/fan/Documents/AndroidSample/bitbucket/pinlocker_layout/app/build/intermediates/exploded-aar/com.github.traex.rippleeffect/library/1.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ee17feb34ce104bc17d1a1e64346d7f779ebb066">
+        <dex dex="/Users/fan/Documents/AndroidSample/bitbucket/pinlocker_layout/app/build/intermediates/pre-dexed/debug/classes-c4cc3f086fc991f6afabf5805cc3f2ca1cc6ae8e.jar" />
+    </item>
+    <item
+        jar="/Users/fan/Downloads/MultiPhotoPicker-master/app/build/intermediates/exploded-aar/MultiPhotoPicker-master/library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cf6380843ff71d0d6c6de8ec8aafcb94701d6c75">
+        <dex dex="/Users/fan/Downloads/MultiPhotoPicker-master/app/build/intermediates/pre-dexed/debug/classes-fdaa37c97f53a1820c190977c9319f2115112fe9.jar" />
+    </item>
+    <item
+        jar="/Users/fan/Documents/AndroidSample/bitbucket/pinlocker_layout/app/build/intermediates/exploded-aar/pinlocker_layout/library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="516edc556d1be884eb170d419b88ac656304399d">
+        <dex dex="/Users/fan/Documents/AndroidSample/bitbucket/pinlocker_layout/app/build/intermediates/pre-dexed/debug/classes-b7dbdd558ed1667a7bb8c47c11a204dc1a86e027.jar" />
+    </item>
+    <item
+        jar="/Users/fan/Downloads/MultiPhotoPicker-master/app/build/intermediates/exploded-aar/MultiPhotoPicker-master/photoview/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4eebdf0b30a6d99f7e09ee7303dc0c13d823b828">
+        <dex dex="/Users/fan/Downloads/MultiPhotoPicker-master/app/build/intermediates/pre-dexed/debug/classes-094ab1886189324f73adad6aa9cdfc9b29a84b9c.jar" />
+    </item>
+    <item
+        jar="/Users/fan/Documents/AndroidSample/bitbucket/pinlocker_layout/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/fan/Documents/AndroidSample/bitbucket/pinlocker_layout/app/build/intermediates/pre-dexed/debug/classes-54f1999ebfc6756766cd3734c7ce0302fb6b2556.jar" />
+    </item>
+    <item
+        jar="/Users/fan/Downloads/MultiPhotoPicker-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/fan/Downloads/MultiPhotoPicker-master/app/build/intermediates/pre-dexed/debug/classes-4f8fef859a38c5f38cfa732d78f4b3fe04aa3fd8.jar" />
+    </item>
+    <item
+        jar="/Users/fan/Documents/AndroidSample/bitbucket/pinlocker_layout/app/build/intermediates/exploded-aar/pinlocker_layout/gestureimageview/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="89b700d81be329e5aa68a87ad0c2500b2ac758c2">
+        <dex dex="/Users/fan/Documents/AndroidSample/bitbucket/pinlocker_layout/app/build/intermediates/pre-dexed/debug/classes-6b3e09644f3ea931074f3e6cd8a0ac8d27aa775f.jar" />
+    </item>
+    <item
+        jar="/Users/fan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/fan/Downloads/MultiPhotoPicker-master/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-dc38d593c9ee6ddc2c4d67a4b2f9e293514c6e02.jar" />
+    </item>
+    <item
+        jar="/Users/fan/Downloads/MultiPhotoPicker-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/fan/Downloads/MultiPhotoPicker-master/app/build/intermediates/pre-dexed/debug/classes-35d8f9ad17ea4602ab9e17f3ab941b89bce634a6.jar" />
+    </item>
+    <item
+        jar="/Users/fan/Documents/AndroidSample/bitbucket/pinlocker_layout/app/build/intermediates/exploded-aar/pinlocker_layout/photoview/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7edacc01f79e7adf78c5d7be82f8781a1959ba8b">
+        <dex dex="/Users/fan/Documents/AndroidSample/bitbucket/pinlocker_layout/app/build/intermediates/pre-dexed/debug/classes-6bb5180677c8fdc7c79923b3c66f6c3c13e79550.jar" />
+    </item>
+    <item
+        jar="/Users/fan/Downloads/MultiPhotoPicker-master/app/build/intermediates/exploded-aar/MultiPhotoPicker-master/subsamplingscaleimageview/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="356f74dda9c4ec6d7fd2a2dc754ca9a10bb2a18f">
+        <dex dex="/Users/fan/Downloads/MultiPhotoPicker-master/app/build/intermediates/pre-dexed/debug/classes-5fc23e9a062d2166affd903435b3ab9e59c969cb.jar" />
+    </item>
+    <item
+        jar="/Users/fan/Downloads/MultiPhotoPicker-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/fan/Downloads/MultiPhotoPicker-master/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e682fa190c88ecd44a7b82484d0aa50ccba4e541.jar" />
+    </item>
+
+</items>
